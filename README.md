@@ -127,3 +127,4 @@ https://github.com/yporoc/ChaosZeroNightmare-Safecut
 https://github.com/yporoc/Chaoszeronightmare-RenderFreedom
 
 把默认皮肤的渲染资源重定向替换成付费皮肤的渲染资源，局内战斗小人有点残废就只放了个正面模型，局外和卡厄思自动战斗小人动作是正常的，进入游戏之后默认模型就是付费模型，本项目需要手动选择目标exe，执行移除前请先执行只读检测，了解情况后再执行移除，移除后请打开产物位置将产物改名为游戏主程序的名字（ssr-stove-shield.exe）并手动替换游戏主程序，建议先移除反作弊
+当前项目已支持解锁全部角色所有动态卡面
