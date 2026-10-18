@@ -122,7 +122,7 @@ https://github.com/yporoc/ChaosZeroNightmare-Safecut
 
 ---
 
-## 适用于国际服pc的付费皮肤强制解锁渲染
+## 适用于国际服pc的付费皮肤强制解锁渲染和解锁全部角色所有动态卡面
 
 https://github.com/yporoc/Chaoszeronightmare-RenderFreedom
 
