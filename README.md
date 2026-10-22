@@ -135,4 +135,4 @@ https://github.com/yporoc/Chaoszeronightmare-RenderFreedom
 
 https://github.com/slyzhydt/card-change
 
-基于本项目 0.1.0 继续开发
+基于本项目 https://github.com/yporoc/Chaoszeronightmare-RenderFreedom 0.1.0 二次开发
