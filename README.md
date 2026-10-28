@@ -89,6 +89,12 @@ https://github.com/yporoc/CZNSpeed-ZygiskNext
 **4 支持且可以成功注入国服，国服的GOT槽位特征与国际服一致，但国服游戏存在ACE，虽然无法拦截模块的注入，但其保护和检测逻辑真实生效，请您自行处理，本模块不做任何处理**
 
 ---
+## 适用于安卓Google Play原版国际服apk的LSPosed模块
+
+https://github.com/XY5/CZNSpeed-LSPosed
+
+基于本项目 https://github.com/yporoc/CZNSpeed-ZygiskNext 1.0fix2 二次开发
+将Zygisk模块移植到LSPosed框架，进一步增强其易用性和可控制性
 
 ## 适用于安卓国际服的繁转简APP工具
 
@@ -135,4 +141,4 @@ https://github.com/yporoc/Chaoszeronightmare-RenderFreedom
 
 https://github.com/slyzhydt/card-change
 
-基于本项目 https://github.com/yporoc/Chaoszeronightmare-RenderFreedom 0.1.0 二次开发
+基于本项目 https://github.com/yporoc/Chaoszeronightmare-RenderFreedom 0.1.0 二次开发,支持功能更强大的自定义渲染重定向规则
