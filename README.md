@@ -94,7 +94,7 @@ https://github.com/yporoc/CZNSpeed-ZygiskNext
 ---
 ## 适用于安卓Google Play原版国际服apk的LSPosed模块
 
-https://github.com/XY5/CZNSpeed-LSPosed
+
 
 基于本项目 https://github.com/yporoc/CZNSpeed-ZygiskNext 1.0fix2 二次开发
 将Zygisk模块移植到LSPosed框架，进一步增强其易用性和可控制性
